@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e745fd523afe44ad66e650d435f58eef",
+    "revision": "1c8757981ac180733b35401b3b3a9792",
     "url": "/My_Portfolio/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/My_Portfolio/static/css/2.cc12f43c.chunk.css"
   },
   {
-    "revision": "ffbd4200eeedd0a374a4",
-    "url": "/My_Portfolio/static/css/main.14428514.chunk.css"
+    "revision": "8ca5b238be92fa0a1c57",
+    "url": "/My_Portfolio/static/css/main.932ac89b.chunk.css"
   },
   {
     "revision": "e8fe144deda98cacc801",
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/My_Portfolio/static/js/3.09fefff2.chunk.js"
   },
   {
-    "revision": "ffbd4200eeedd0a374a4",
+    "revision": "8ca5b238be92fa0a1c57",
     "url": "/My_Portfolio/static/js/main.9c22cffa.chunk.js"
   },
   {
@@ -50,10 +50,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9070490babe4d1aa7f077b104555b363",
     "url": "/My_Portfolio/static/media/arrow2.9070490b.svg"
-  },
-  {
-    "revision": "5f3ca49706055342e92708c7dd31849f",
-    "url": "/My_Portfolio/static/media/banner-bg.5f3ca497.png"
   },
   {
     "revision": "d64094774a77a02c2c22356681131cb8",
@@ -110,6 +106,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9457e5ad2a052b3cd0a13499635f8d7d",
     "url": "/My_Portfolio/static/media/nav-icon5.9457e5ad.svg"
+  },
+  {
+    "revision": "719a47ec474f26d91e6aad0de8b96418",
+    "url": "/My_Portfolio/static/media/pngtree-cool-decoration-abstract-light-dark-blue-futuristic-background-design-creative-dynamic-image_315241.719a47ec.jpg"
   },
   {
     "revision": "698e41384f07c7018c0dddd6f5dd2ff3",
